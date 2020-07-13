@@ -1,0 +1,112 @@
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\bootstrap_p1.dll.config
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\bootstrap_p1.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\bootstrap_p1.pdb
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\csc.exe
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\csc.exe.config
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\csc.rsp
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\csi.exe
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\csi.exe.config
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\csi.rsp
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.AppContext.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Collections.Immutable.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Console.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.IO.Compression.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.IO.FileSystem.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.IO.Pipes.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Security.AccessControl.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Security.Claims.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.ValueTuple.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Xml.XPath.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\vbc.exe
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\vbc.exe.config
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\vbc.rsp
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\VBCSCompiler.exe
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\roslyn\VBCSCompiler.exe.config
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\obj\Debug\bootstrap_p1.csprojAssemblyReference.cache
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\obj\Debug\bootstrap_p1.csproj.CoreCompileInputs.cache
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\obj\Debug\bootstrap_p1.csproj.CopyComplete
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\obj\Debug\bootstrap_p1.dll
+D:\Sarah project\boot strap p1\bootstrap_p1\bootstrap_p1\obj\Debug\bootstrap_p1.pdb
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\bootstrap_p1.dll.config
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\bootstrap_p1.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\bootstrap_p1.pdb
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\csc.exe
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\csc.exe.config
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\csc.rsp
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\csi.exe
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\csi.exe.config
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\csi.rsp
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.AppContext.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Collections.Immutable.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Console.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.IO.Compression.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.IO.FileSystem.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.IO.Pipes.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Reflection.Metadata.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Security.AccessControl.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Security.Claims.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.ValueTuple.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Xml.XPath.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\vbc.exe
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\vbc.exe.config
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\vbc.rsp
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\VBCSCompiler.exe
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\roslyn\VBCSCompiler.exe.config
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\obj\Debug\bootstrap_p1.csprojAssemblyReference.cache
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\obj\Debug\bootstrap_p1.csproj.CoreCompileInputs.cache
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\obj\Debug\bootstrap_p1.csproj.CopyComplete
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\obj\Debug\bootstrap_p1.dll
+D:\SarahProject\BootStrap1\bootstrap_p1\bootstrap_p1\obj\Debug\bootstrap_p1.pdb

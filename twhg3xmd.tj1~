@@ -1,0 +1,161 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <link href="boots/bootstrap-theme.min.css" rel="stylesheet" />
+    <link href="boots/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/StyleSh1.css" rel="stylesheet" />
+</head>
+<body>
+    <!-- button block -->
+    <button class="but">Looking for Bootstrap 4</button>
+    <!-- navbar -->
+        <nav class="navbar navbar-default">
+            <div class="container">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="BootstrapPage1.html">Bootstrap</a>
+                </div>
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav">
+                        <li><a class="navbar-brand" href="GettingPage.html">Getting started</a></li>
+                        <li> <a class="navbar-brand" href="CssPage.html">css</a></li>
+                        <li><a class="navbar-brand" href="#">components</a></li>
+                        <li><a class="navbar-brand" href="#">JavaScript</a></li>
+                        <li><a class="navbar-brand" href="#">Customize</a></li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">v3.4.1  <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a class="navbar-brand" href="GettingPage.html">Getting started</a></li>
+                                <li> <a class="navbar-brand" href="CssPage.html">css</a></li>
+                                <li><a class="navbar-brand" href="#">components</a></li>
+                                <li><a class="navbar-brand" href="#">JavaScript</a></li>
+                                <li><a class="navbar-brand" href="#">Customize</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#">Themes</a></li>
+                        <li><a href="#">Expo</a></li>
+                        <li><a href="#">Blog</a></li>
+                    </ul>
+                </div><!-- /.navbar-collapse -->
+            </div><!-- /.container-fluid -->
+        </nav>
+    <!-- section one about bootstrap -->
+    <div class="b">
+        <div class="container">
+            <div class="col-lg-12 col-xs-12">
+                <div class="B col-lg-12 col-xs-12" >
+                    <span>B</span>
+                </div>
+                <p>Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.</p>
+                <button>Download Bootstrap</button>
+                <br />
+                <label>Currently <span>v3.4.1</span></label>
+                <div class="cover">
+                    <div class="img1">
+                        <img src="BootstrapImg/1545083324-1539370929-mailchimp-Yellow-260x200.png" width="150" height="150" />
+                    </div>
+                    <div class="p1">
+                        <p>Try DigitalOcean today and get a free $50 credit</p>
+                        <span>ads via Carbon</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- section two about header -->
+    <div class="container">
+        <div class="header">
+            <div class="title">
+                <h1>Designed for everyone, everywhere</h1>
+                <p>Bootstrap makes front-end web development faster and easier. It's made for folks of all skill levels, devices of all shapes, and projects of all sizes.</p>
+            </div>
+            <hr />
+            <div class="col-lg-4 size">
+                <div>
+                    <img src="BootstrapImg/sass-less.png" />
+                    <h3>Preprocessors</h3>
+                    <p>Bootstrap ships with vanilla CSS, but its source code utilizes the two most popular CSS preprocessors, Less and Sass. Quickly get started with precompiled CSS or build on the source.</p>
+                </div>
+            </div>
+            <div class="col-lg-4 size">
+                <img src="BootstrapImg/devices.png" />
+                <div>
+                    <h3>One framework, every device.</h3>
+                    <p>Bootstrap easily and efficiently scales your websites and applications with a single code base, from phones to tablets to desktops with CSS media queries.</p>
+                </div>
+            </div>
+            <div class="col-lg-4 size">
+                <img src="BootstrapImg/components.png" />
+                <div>
+                    <h3>Full of features</h3>
+                    <p>With Bootstrap, you get extensive and beautiful documentation for common HTML elements, dozens of custom HTML and CSS components, and awesome jQuery plugins.</p>
+
+                </div>
+            </div>
+            <br />
+            <hr />
+            <div class="view">
+                <p>Bootstrap is open source. It's hosted, developed, and maintained on GitHub.</p>
+                <button>View the Github project</button>
+            </div>
+        </div>
+    </div>
+    <hr />
+    <!-- section about  Bootstrap theames -->
+    <div class="container">
+        <div class="center">
+            <h1>Official Bootstrap Themes</h1>
+            <p>Take Bootstrap to the next level with official premium themes. Each theme is its own toolkit featuring all of Bootstrap, brand new components and plugins, full docs, build tools, and more.</p>
+            <button>Browser themes</button>
+            <br />
+            <img src="BootstrapImg/bs-themes.png" />
+        </div>
+    </div>
+    <hr />
+    <div class="container">
+        <div class="center changeImg">
+            <h1>Built with Bootstrap</h1>
+            <p>Millions of amazing sites across the web are being built with Bootstrap. Get started on your own with our growing<span> collection of examples </span>or by exploring some of our favorites.</p>
+            <hr />
+            <img src="BootstrapImg/expo-lyft.jpg" />
+            <img src="BootstrapImg/expo-vogue.jpg" />
+            <img src="BootstrapImg/expo-newsweek.jpg" />
+            <hr />
+            <p>We showcase dozens of inspiring projects built with Bootstrap on the Bootstrap Expo.</p>
+            <button>Explore the Expo</button>
+        </div>
+    </div>
+    <!-- section about footer -->
+    <div class="footer">
+        <div class="container">
+            <ul>
+                <li><a href="">GitHub</a></li>
+                <li><a href="">Twitter</a></li>
+                <li><a href="">Examples</a></li>
+                <li><a href="">About</a></li>
+            </ul>
+            <p>
+                Designed and built with all the love in the world by<span>@mdo</span>  and <span>@fat</span>. Maintained by the<span>core team</span>  with the help of <span>our contributors</span>  .
+            </p>
+            <p>
+                Code licensed<span>MIT</span> , <span>docs CC BY 3.0</span> .
+            </p>
+        </div>
+    </div>
+    <script src="boots/jquery-1.9.1.min.js"></script>
+    <script src="boots/bootstrap.min.js"></script>
+</body>
+</html>
